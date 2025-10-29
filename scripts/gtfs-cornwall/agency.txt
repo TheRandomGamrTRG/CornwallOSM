@@ -1,0 +1,2 @@
+﻿agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url,agency_email
+0,Cornwall Transit,https://www.cornwall.ca/en/live-here/cornwall-transit.aspx,America/Toronto,en,613-930-2636,https://www.cornwall.ca/en/live-here/fares-and-passes.aspx,

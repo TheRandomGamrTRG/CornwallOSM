@@ -1,0 +1,128 @@
+
+meta {
+	title: "Address Tags Validator";
+	description: "Coloring of buildings with or without addr:street, addr:housenumber (deprecated, use 'Coloured streets style' instead.)";
+	author: "Antisida, CupIvan, Felis Pimeja, Zverik";
+	version: "1.18_2020-10-05";
+}
+
+/* paint polygons and multipolygons with building=* tags white */
+area|z1-17[building][building!=shed][building!=garage][building!=garages][building!=hut][building!=roof] {fill-color: #FFFAFA; width: 2; casing-color: red; fill-opacity:0.9; text-color: #000000; font-size: 10}
+area|z18[building][building!=shed][building!=garage][building!=garages][building!=hut][building!=roof] {fill-color: #FFFAFA; width: 2; casing-color: red; fill-opacity:0.4; text-color: #000000; font-size: 10}
+area|z19-[building][building!=shed][building!=garage][building!=garages][building!=hut][building!=roof] {fill-color: #FFFAFA; width: 2; casing-color: red; fill-opacity:0.1; text-color: #000000; font-size: 10}
+
+/* highlight buildings */
+area[addr:street] {fill-opacity:0.2}
+area[addr:street=~/(^|.+ )[АA]/] {fill-color: #AFEEEE; color: #AFEEEE}
+area[addr:street=~/(^|.+ )[БB]/] {fill-color: #90EE90; color: #90EE90}
+area[addr:street=~/(^|.+ )[ВC]/] {fill-color: #EE1289; color: #EE1289}
+area[addr:street=~/(^|.+ )[ГD]/] {fill-color: #FFD700; color: #FFD700}
+area[addr:street=~/(^|.+ )[ДE]/] {fill-color: #7CFC00; color: #7CFC00}
+area[addr:street=~/(^|.+ )[ЕF]/] {fill-color: #D82BD6; color: #D82BD6}
+area[addr:street=~/(^|.+ )[ЁG]/] {fill-color: #00FF66; color: #00FF66}
+area[addr:street=~/(^|.+ )[ЖH]/] {fill-color: #4328F6; color: #4328F6}
+area[addr:street=~/(^|.+ )[ЗI]/] {fill-color: #43DA2C; color: #43DA2C}
+area[addr:street=~/(^|.+ )[ИJ]/] {fill-color: #26CEF5; color: #26CEF5}
+area[addr:street=~/(^|.+ )[ЙK]/] {fill-color: #CCFF33; color: #CCFF33}
+area[addr:street=~/(^|.+ )[КL]/] {fill-color: #BA55D3; color: #BA55D3} 
+area[addr:street=~/(^|.+ )[ЛM]/] {fill-color: #D20C44; color: #D20C44}
+area[addr:street=~/(^|.+ )[МN]/] {fill-color: #FFA500; color: #FFA500}
+area[addr:street=~/(^|.+ )[НO]/] {fill-color: #4C55B2; color: #4C55B2}
+area[addr:street=~/(^|.+ )[ОP]/] {fill-color: #FF1493; color: #FF1493}
+area[addr:street=~/(^|.+ )[ПQ]/] {fill-color: #8968CD; color: #8968CD}
+area[addr:street=~/(^|.+ )[РR]/] {fill-color: #40BA8F; color: #40BA8F}
+area[addr:street=~/(^|.+ )[СS]/] {fill-color: #38FBC5; color: #38FBC5}
+area[addr:street=~/(^|.+ )[ТT]/] {fill-color: #7FFFD4; color: #7FFFD4}
+area[addr:street=~/(^|.+ )[УU]/] {fill-color: #A40A5F; color: #A40A5F}
+area[addr:street=~/(^|.+ )[ФV]/] {fill-color: #CDCD00; color: #CDCD00}
+area[addr:street=~/(^|.+ )[ХW]/] {fill-color: #00BFFF; color: #00BFFF}
+area[addr:street=~/(^|.+ )[ЦX]/] {fill-color: #D8FBB0; color: #D8FBB0}
+area[addr:street=~/(^|.+ )[ЧY]/] {fill-color: #1E90FF; color: #1E90FF}
+area[addr:street=~/(^|.+ )[ШZ]/] {fill-color: #F34177; color: #F34177}
+area[addr:street=~/(^|.+ )[ЩÄ]/] {fill-color: #51FC40; color: #51FC40}
+area[addr:street=~/(^|.+ )[ЭÖ]/] {fill-color: #12EA9A; color: #12EA9A}
+area[addr:street=~/(^|.+ )[ЮÜ]/] {fill-color: #A4CB65; color: #A4CB65}
+area[addr:street=~/(^|.+ )[ЯŚ]/] {fill-color: #B2D3F0; color: #B2D3F0}
+
+area[addr:street=~/(^|.+ )[1-9]?1[^0-9]/] {fill-color: #FFFF33; color: #FFFF33}
+area[addr:street=~/(^|.+ )[1-9]?2[^0-9]/] {fill-color: #CC9999; color: #CC9999} 
+area[addr:street=~/(^|.+ )[1-9]?3[^0-9]/] {fill-color: #FF6699; color: #FF6699}
+area[addr:street=~/(^|.+ )[1-9]?4[^0-9]/] {fill-color: #99FFCC; color: #99FFCC}
+area[addr:street=~/(^|.+ )[1-9]?5[^0-9]/] {fill-color: #FF6666; color: #FF6666}
+area[addr:street=~/(^|.+ )[1-9]?6[^0-9]/] {fill-color: #FF66CC; color: #FF66CC}
+area[addr:street=~/(^|.+ )[1-9]?7[^0-9]/] {fill-color: #CC99FF; color: #CC99FF}
+area[addr:street=~/(^|.+ )[1-9]?8[^0-9]/] {fill-color: #00FF99; color: #00FF99}
+area[addr:street=~/(^|.+ )[1-9]?9[^0-9]/] {fill-color: #66CCFF; color: #66CCFF}
+area[addr:street=~/(^|.+ )[1-9]?0[^0-9]/] {fill-color: #99CCCC; color: #99CCCC}
+
+/* hide nodes */
+/* node|z1-14{symbol-shape: circle; symbol-fill-opacity: 0.6; symbol-fill-color:yellow; symbol-size: 2; z-index:-1} */
+/* node|z14-15{symbol-shape: circle; symbol-fill-opacity: 1; symbol-fill-color:yellow; symbol-size: 3; z-index:-1} */
+
+/* have housenumber, miss street */
+area[addr:housenumber][!addr:street] {width: 2; fill-color: #FF0000; text-color: #000000; font-size: 10;casing-width: 1; casing-color: #FFFF00}
+area|z1-17[addr:housenumber][!addr:street] {fill-opacity:0.9}
+area|z18[addr:housenumber][!addr:street] {fill-opacity:0.4}
+area|z19-25[addr:housenumber][!addr:street] {fill-opacity:0.1}
+
+/* have street, miss housenumber */
+area[addr:street][!addr:housenumber] {font-size: 10; casing-width: 1; casing-color: grey; color: #FFFFFF } 
+area|z1-17[addr:street][!addr:housenumber] {width: 2; fill-opacity:0.9;} 
+area|z18[addr:street][!addr:housenumber] {width: 4; fill-opacity:0.4;} 
+area|z19-25[addr:street][!addr:housenumber] {width: 4; fill-opacity:0.1;} 
+
+/* highlight highway names in tone with buildings */
+way[highway][name]{font-size: 12; text-color: #000000; text-position: line; text: name; text-offset: 0; text-halo-radius:2; casing-opacity:0.4}
+way|z4-10[highway][name]{casing-width:1}
+way|z11-12[highway][name]{casing-width:2}
+way|z13-17[highway][name]{casing-width:3}
+way|z18-30[highway][name]{casing-width:5}
+
+way[highway][name=~/(^|.+ )[АA]/]{text-halo-color: #AFEEEE; casing-color:#AFEEEE}
+way[highway][name=~/(^|.+ )[БB]/]{text-halo-color: #90EE90; casing-color:#90EE90}
+way[highway][name=~/(^|.+ )[ВC]/]{text-halo-color: #EE1289; casing-color:#EE1289}
+way[highway][name=~/(^|.+ )[ГD]/]{text-halo-color: #FFD700; casing-color:#FFD700}
+way[highway][name=~/(^|.+ )[ДE]/]{text-halo-color: #7CFC00; casing-color:#7CFC00}
+way[highway][name=~/(^|.+ )[ЕF]/]{text-halo-color: #D82BD6; casing-color:#D82BD6}
+way[highway][name=~/(^|.+ )[ЁG]/]{text-halo-color: #00FF66; casing-color:#00FF66}
+way[highway][name=~/(^|.+ )[ЖH]/]{text-halo-color: #4328F6; casing-color:#4328F6}
+way[highway][name=~/(^|.+ )[ЗI]/]{text-halo-color: #43DA2C; casing-color:#43DA2C}
+way[highway][name=~/(^|.+ )[ИJ]/]{text-halo-color: #26CEF5; casing-color:#26CEF5}
+way[highway][name=~/(^|.+ )[ЙK]/]{text-halo-color: #CCFF33; casing-color:#CCFF33}
+way[highway][name=~/(^|.+ )[КL]/]{text-halo-color: #BA55D3; casing-color:#BA55D3}
+way[highway][name=~/(^|.+ )[ЛM]/]{text-halo-color: #D20C44; casing-color:#D20C44}
+way[highway][name=~/(^|.+ )[МN]/]{text-halo-color: #FFA500; casing-color:#FFA500}
+way[highway][name=~/(^|.+ )[НO]/]{text-halo-color: #4C55B2; casing-color:#4C55B2}
+way[highway][name=~/(^|.+ )[ОP]/]{text-halo-color: #FF1493; casing-color:#FF1493}
+way[highway][name=~/(^|.+ )[ПQ]/]{text-halo-color: #8968CD; casing-color:#8968CD}
+way[highway][name=~/(^|.+ )[РR]/]{text-halo-color: #40BA8F; casing-color:#40BA8F}
+way[highway][name=~/(^|.+ )[СS]/]{text-halo-color: #38FBC5; casing-color:#38FBC5}
+way[highway][name=~/(^|.+ )[ТT]/]{text-halo-color: #7FFFD4; casing-color:#7FFFD4}
+way[highway][name=~/(^|.+ )[УU]/]{text-halo-color: #A40A5F; casing-color:#A40A5F}
+way[highway][name=~/(^|.+ )[ФV]/]{text-halo-color: #CDCD00; casing-color:#CDCD00}
+way[highway][name=~/(^|.+ )[ХW]/]{text-halo-color: #00BFFF; casing-color:#00BFFF}
+way[highway][name=~/(^|.+ )[ЦX]/]{text-halo-color: #D8FBB0; casing-color:#D8FBB0}
+way[highway][name=~/(^|.+ )[ЧY]/]{text-halo-color: #1E90FF; casing-color:#1E90FF}
+way[highway][name=~/(^|.+ )[ШZ]/]{text-halo-color: #F34177; casing-color:#F34177}
+way[highway][name=~/(^|.+ )[ЩÄ]/]{text-halo-color: #51FC40; casing-color:#51FC40}
+way[highway][name=~/(^|.+ )[ЭÖ]/]{text-halo-color: #12EA9A; casing-color:#12EA9A}
+way[highway][name=~/(^|.+ )[ЮÜ]/]{text-halo-color: #A4CB65; casing-color:#A4CB65}
+way[highway][name=~/(^|.+ )[ЯŚ]/]{text-halo-color: #B2D3F0; casing-color:#B2D3F0}
+
+way[highway][name=~/(^|.+ )[1-9]?1[^0-9]/]{text-halo-color: #FFFF33; casing-color:#FFFF33}
+way[highway][name=~/(^|.+ )[1-9]?2[^0-9]/]{text-halo-color: #CC9999; casing-color:#CC9999}
+way[highway][name=~/(^|.+ )[1-9]?3[^0-9]/]{text-halo-color: #FF6699; casing-color:#FF6699}
+way[highway][name=~/(^|.+ )[1-9]?4[^0-9]/]{text-halo-color: #99FFCC; casing-color:#99FFCC}
+way[highway][name=~/(^|.+ )[1-9]?5[^0-9]/]{text-halo-color: #FF6666; casing-color:#FF6666}
+way[highway][name=~/(^|.+ )[1-9]?6[^0-9]/]{text-halo-color: #FF66CC; casing-color:#FF66CC}
+way[highway][name=~/(^|.+ )[1-9]?7[^0-9]/]{text-halo-color: #CC99FF; casing-color:#CC99FF}
+way[highway][name=~/(^|.+ )[1-9]?8[^0-9]/]{text-halo-color: #00FF99; casing-color:#00FF99}
+way[highway][name=~/(^|.+ )[1-9]?9[^0-9]/]{text-halo-color: #66CCFF; casing-color:#66CCFF}
+way[highway][name=~/(^|.+ )[1-9]?0[^0-9]/]{text-halo-color: #99CCCC; casing-color:#99CCCC}
+
+/* tone down landuses */
+area[landuse] {opacity:0.5; color:#CDCDC1; width: 1; fill-color: #F0FFFF; fill-opacity:0; casing-width: 0; casing-color: grey}
+
+/* highlight buildings without address */
+area[building][!addr:street] {fill-color: #FF0000; color: #FF0000; fill-opacity:1.0}
+area[building][!addr:housenumber] {fill-color: #FF0000; color: #FF0000; fill-opacity:1.0}

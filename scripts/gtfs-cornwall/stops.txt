@@ -1,0 +1,308 @@
+﻿stop_id,stop_name,stop_lat,stop_lon,wheelchair_boarding
+101,Joyce & Riverdale,45.016235,-74.77124,0
+102,Riverdale & Peter,45.014459,-74.769992,0
+103,Riverdale & Dover,45.013607,-74.769249,0
+104,Riverdale & Princess,45.012744,-74.768519,0
+105,Riverdale & Queen,45.011619,-74.767618,0
+106,Second & Riverdale,45.010468,-74.766266,0
+107,Second & Westmoreland,45.011124,-74.762832,0
+108,Second & Riverdale Terrace,45.011759,-74.759364,0
+109,Second & Frontenac,45.012525,-74.756166,0
+110,Second & Young,45.013701,-74.752139,0
+111,Second & Angelo Lebano to Walmart,45.014892,-74.747805,0
+112,Brookdale & Third,45.01612,-74.742034,0
+113,Brookdale & Fifth,45.018943,-74.744083,0
+118,Pitt & Ninth,45.028459,-74.734589,0
+119,Pitt & Eighth,45.026907,-74.733729,0
+120,Pitt & Seventh,45.025489,-74.732895,0
+121,Pitt & Sixth,45.023897,-74.732017,0
+122,Pitt & Fifth,45.022332,-74.731104,0
+123,Pitt & Fourth,45.02138,-74.730538,0
+124,Pitt & Third,45.020322,-74.72994,0
+125,Pitt & Second,45.018219,-74.728895,0
+126,Cornwall Square,45.015932,-74.727485,0
+127,Water & Augustus,45.014606,-74.729529,0
+128,Water & Bedford,45.013776,-74.73247,0
+129,Brookdale & Maple,45.013822,-74.740075,0
+131,Second & Hoople,45.014086,-74.75152,0
+132,Robertson & Second,45.013266,-74.755535,0
+133,Robertson & Leonard,45.014418,-74.756523,0
+134,Robertson & Queen,45.016198,-74.757997,0
+135,Queen & Susan,45.015218,-74.760524,0
+136,Queen & Shirley,45.01428,-74.762679,0
+137,Westmoreland & Queen,45.01372,-74.764378,0
+138,Westmoreland & Dover,45.014906,-74.765403,0
+140,Joyce & Surgenor,45.017585,-74.767996,0
+141,Joyce & Pescod,45.016864,-74.769687,0
+201,Tollgate & Brookdale,45.04008,-74.76082,0
+202,365 Emma,45.039166,-74.757063,0
+203,Emma & Cumberland,45.037752,-74.753019,0
+204,Cumberland & Fifteenth,45.034193,-74.749546,0
+205,Cumberland & Thirteenth,45.030755,-74.746738,0
+206,Cumberland & Twelfth,45.028708,-74.744952,0
+207,Cumberland & Eleventh,45.027634,-74.743991,0
+217,Augustus to Pitt & Second,45.017561,-74.731011,0
+219,Second & Augustus,45.017657,-74.731103,0
+220,Second & York,45.017062,-74.733321,0
+221,Second & Cumberland,45.015889,-74.737742,0
+222,Second & Yates,45.015642,-74.739628,0
+223,Second & Angelo Lebano,45.015109,-74.747749,0
+224,Benson Centre,45.018498,-74.749682,0
+225,Brookdale Centre,45.023604,-74.750111,0
+226,Brookdale & Twelfth,45.026564,-74.751093,0
+227,Brookdale & Henry,45.029884,-74.753695,0
+228,Brookdale & Best Western,45.031959,-74.755419,0
+229,Brookdale & Sara,45.03326,-74.756547,0
+230,Brookdale & Cobblehill,45.035325,-74.758383,0
+231,Home Depot,45.037751,-74.760484,0
+232,Emma & Cumberland,45.040483,-74.758696,0
+233,Cornwall Transit,45.016491,-74.749005,0
+234,Seventh & Cumberland to Pitt & Second,45.023171,-74.741723,0
+235,Cumberland & Sixth,45.02193,-74.740607,0
+236,Cumberland & Fifth,45.020133,-74.739536,0
+237,Cumberland & Fourth to Pitt & Second,45.018636,-74.738672,0
+238,Cumberland & Second,45.016524,-74.737464,0
+239,Bedford to Pitt & Second,45.016415,-74.73503,0
+240,Second & York,45.016973,-74.733021,0
+241,Walmart,45.023678,-74.744232,0
+301,Tollgate & Brookdale,45.039899,-74.761508,0
+302,Brookdale & Alma,45.037304,-74.760351,0
+303,Brookdale & Cobble Hill,45.035412,-74.758881,0
+304,Laflin & Brookdale,45.034041,-74.757973,0
+305,Laflin Apartments,45.033156,-74.75998,0
+306,Laflin & Oran,45.03248,-74.762581,0
+307,Oran & Vincent Massey,45.0313,-74.76292,0
+308,Vincent Massey (Petro Canada),45.030834,-74.759302,0
+309,Vincent Massey & Fourteenth,45.029985,-74.756028,0
+310,Brookdale & Twelfth,45.026887,-74.751691,0
+311,Ninth & Brookdale,45.025157,-74.74826,0
+312,Ninth St. at (Walmart),45.025791,-74.744762,0
+323,York & Second,45.017475,-74.733005,0
+324,York & Third,45.018481,-74.733579,0
+325,York & Fourth,45.019973,-74.734424,0
+326,Fifth & Rivier Place,45.021439,-74.736162,0
+327,Fifth & Cumberland,45.020487,-74.739462,0
+328,Cumberland & Sixth,45.021538,-74.740188,0
+329,Seventh & Cumberland to Walmart,45.023335,-74.741603,0
+331,Cumberland & Ninth,45.026892,-74.743197,0
+332,Cumberland & Twelfth,45.029009,-74.745017,0
+338,Fifteenth & Cumberland,45.034833,-74.750249,0
+339,St. Joseph High School,45.035982,-74.751083,0
+340,Cumberland & Emma,45.037666,-74.752385,0
+341,350 Emma,45.039057,-74.75671,0
+342,Emma & Cumberland,45.040471,-74.758247,0
+343,Ninth & Cumberland,45.026507,-74.742198,0
+344,Ninth & York,45.027404,-74.739063,0
+345,York & Fifth,45.021669,-74.735542,0
+346,York & Sixth,45.023106,-74.736354,0
+347,York & Seventh,45.024636,-74.737228,0
+348,York & Eighth,45.026074,-74.738044,0
+349,York & Fourth,45.020134,-74.734669,0
+350,York & Third,45.018648,-74.733827,0
+351,York & Second,45.017345,-74.733116,0
+401,Glengarry & Third,45.027388,-74.706123,0
+402,Second & Glengarry,45.025572,-74.706688,0
+403,Second & Guy to Pitt & Second,45.024124,-74.709979,0
+404,Citadelle High School,45.0234,-74.711695,0
+405,McConnell & Second,45.023972,-74.714284,0
+406,McConnell & Fourth,45.025412,-74.715509,0
+407,Ridgewood & Valecrest,45.029264,-74.720504,0
+408,Ridgewood & Marlborough,45.028749,-74.722351,0
+409,Seventh & Gloucester,45.028244,-74.724237,0
+410,Adolphus & Seventh,45.027087,-74.726504,0
+411,540 Adolphus,45.025663,-74.725666,0
+412,Fifth & Adolphus,45.02446,-74.725516,0
+413,Fifth & Amelia,45.024028,-74.726951,0
+418,Sydney & Second,45.019042,-74.726578,0
+419,Fourth & Sydney,45.021978,-74.727605,0
+420,Fourth & Adolphus,45.022811,-74.724619,0
+421,Fourth & Gloucester,45.023327,-74.722867,0
+422,Fourth & Marlborough,45.024207,-74.719677,0
+423,Fourth & Baldwin,45.024684,-74.717895,0
+424,McConnell & Fifth,45.026938,-74.716778,0
+425,Cornwall Community Hospital,45.02855,-74.718142,0
+426,McConnell & Kingslea,45.031214,-74.720365,0
+427,McConnell & Oliver,45.033776,-74.722761,0
+428,McConnell & Bousquet,45.034891,-74.723925,0
+432,Eleventh & Marlborough,45.035302,-74.725364,0
+433,Ninth & Marlborough,45.031835,-74.723283,0
+434,Marleau & Guy,45.033161,-74.717974,0
+435,Marleau & Carleton,45.03393,-74.716096,0
+436,Marleau & Iroquois,45.034634,-74.714409,0
+439,Glengarry & Dundas,45.032015,-74.705739,0
+440,Glengarry Apartments,45.029035,-74.704614,0
+501,DEV Hotel  (Main Entrance),45.027914,-74.683244,0
+502,Glen Stor Dun Lodge to Pitt & Second,45.025121,-74.683585,0
+503,Montreal Rd. & Dunbar,45.0233,-74.686318,0
+504,Montreal Rd. & Leonia,45.022377,-74.68825,0
+505,Montreal Rd. & Jarvis,45.021614,-74.690417,0
+506,Montreal Rd. & Lefebvre,45.020871,-74.692608,0
+507,Danis to Pitt & Second,45.020506,-74.694456,0
+508,Belmont North of Montreal Rd.,45.019043,-74.702908,0
+509,Guy St. to Pitt & Second,45.018562,-74.705911,0
+510,Montreal Rd. & Prince Arthur,45.01852,-74.708289,0
+511,Montreal Rd. & McConnell,45.018575,-74.711033,0
+512,Montreal Rd. & Baldwin,45.018582,-74.713226,0
+513,Montreal Rd. & Lawrence (Port Theatre),45.018581,-74.714696,0
+514,Water & Marlborough,45.018241,-74.716968,0
+515,Water & Adolphus,45.017069,-74.721106,0
+516,Sydney & Cornwall Square,45.017236,-74.724277,0
+517,Second & Sydney (Library),45.018823,-74.726989,0
+520,Water Street East (Civic Complex),45.015744,-74.724981,0
+521,Aquatic Center,45.014972,-74.722533,0
+522,Water & Race,45.017005,-74.720872,0
+523,Water & Gloucester,45.017724,-74.718319,0
+524,Montreal Rd. & Marlborough,45.018287,-74.716233,0
+525,Montreal Rd. & 15 Edward,45.018476,-74.712197,0
+526,Montreal Rd. & McConnell,45.018431,-74.709425,0
+527,Guy St. & Montreal Rd.,45.018462,-74.705545,0
+528,Saint Lawrence College,45.017267,-74.70267,0
+529,Belmont South of Montreal Rd.,45.018908,-74.702798,0
+530,Heritage High School,45.019352,-74.70016,0
+531,Montreal Rd. & Kirkman,45.019604,-74.698453,0
+532,Danis & Montreal Rd.,45.02042,-74.694321,0
+533,Montreal Rd. & Gardner,45.020978,-74.69185,0
+534,Montreal Rd. & Anthony,45.021751,-74.689608,0
+535,Montreal Rd. & Bryden,45.022702,-74.687266,0
+536,Glen Stor Dun Lodge to DEV Hotel,45.025226,-74.683183,0
+537,DEV Hotel (East Entrance),45.029056,-74.680375,0
+601,Ross & Cornwall Ctre Rd.,45.061004,-74.767975,0
+602,Ross & Mercier,45.057424,-74.765095,0
+603,Ross & McKenzie,45.054188,-74.762168,0
+604,McKenzie & Pitt,45.055508,-74.75865,0
+606,Pitt & Wellington,45.050449,-74.754406,0
+607,2036 Pitt,45.048264,-74.752565,0
+608,Pitt & Tollgate,45.04571,-74.750322,0
+609,Pitt & Jobin (Southbound),45.03895,-74.744523,0
+610,Pitt & Fifteenth,45.037057,-74.74292,0
+611,Pitt & Fourteenth,45.03566,-74.741737,0
+612,Pitt & Crescent View,45.033715,-74.740114,0
+613,Pitt & Twelfth,45.032443,-74.739043,0
+614,Pitt & Fennel,45.030678,-74.737546,0
+624,Sydney & Fourth,45.02218,-74.728353,0
+625,Sydney & Fifth,45.023608,-74.729176,0
+626,Sydney & Sixth,45.025097,-74.73003,0
+627,Sydney & Seventh,45.026248,-74.730656,0
+628,Sydney & Eighth,45.027965,-74.731675,0
+629,Sydney & Tenth,45.030207,-74.73316,0
+630,Sydney & Vimy,45.031846,-74.734693,0
+631,Sydney & Twelfth,45.033384,-74.736124,0
+632,Sydney & Lourdes,45.034464,-74.737045,0
+633,Thirteenth & Pitt,45.034487,-74.740125,0
+634,Pitt & Sunnyside,45.036313,-74.74204,0
+635,Pitt & Jobin (Northbound),45.038868,-74.744217,0
+636,Pitt & Emma,45.039891,-74.745048,0
+637,Pitt & Tollgate,45.045888,-74.750239,0
+638,2053 Pitt,45.048615,-74.752651,0
+639,Pitt & Wellington,45.050576,-74.754253,0
+640,2135 Pitt,45.053586,-74.756757,0
+641,Pitt & McKenzie,45.056073,-74.758775,0
+642,Eamers Corners School,45.057706,-74.760081,0
+643,Pitt & Mercier,45.059693,-74.761699,0
+644,Pitt & Carrier,45.061613,-74.763225,0
+645,Cornwall Centre Rd & Pitt,45.062677,-74.764823,0
+707,Shearer & Beach,45.033198,-74.690244,0
+708,Anderson & Shearer,45.031903,-74.69227,0
+709,Second & Saint Peter's School,45.031868,-74.691328,0
+710,Billington & Concorde,45.032804,-74.687303,0
+711,Walton & Billington,45.030575,-74.686293,0
+712,Walton & Ivan,45.028985,-74.688743,0
+713,Walton & Bryden,45.027649,-74.691962,0
+714,Anthony & Walton,45.027156,-74.693706,0
+715,Anthony & First,45.029203,-74.695346,0
+716,Second & Saint Lawrence High School,45.029323,-74.697739,0
+717,Second & Danis,45.028386,-74.700017,0
+718,Eastcourt Mall,45.026733,-74.703934,0
+722,Second & McConnell,45.022519,-74.713966,0
+723,Baldwin to Pitt & Second,45.021881,-74.71617,0
+724,Second & Marlborough,45.021159,-74.718769,0
+725,Second & Gloucester,45.020441,-74.721434,0
+726,Adolphus to Pitt & Second,45.020015,-74.722887,0
+727,Amelia to Pitt & Second,45.019423,-74.724961,0
+730,Second & Sydney,45.019022,-74.725842,0
+731,Amelia to Eastcourt Mall,45.019496,-74.724138,0
+732,Adolphus to Eastcourt Mall,45.020135,-74.721952,0
+733,Second & Gloucester,45.020657,-74.720068,0
+734,Second & Lawrence,45.021526,-74.716974,0
+735,Baldwin to Eastcourt Mall,45.021935,-74.7155,0
+736,Second & McConnell,45.022745,-74.712831,0
+737,Second & Guy,45.02389,-74.710178,0
+738,Second & Saint Felix,45.025016,-74.70751,0
+739,Second & Glengarry,45.02588,-74.705352,0
+740,Second & Eastcourt Mall,45.026925,-74.702893,0
+741,Second & Lefebvre,45.028757,-74.698662,0
+742,Anthony & Second,45.030315,-74.696253,0
+743,Anthony & Frances Ann,45.032318,-74.697896,0
+744,Holy Cross & Anthony,45.035716,-74.699231,0
+6103,Chateau Cornwall,45.018018,-74.723419,0
+6104,Ultra Vista Apartments,45.021097,-74.72138,0
+6107,Army Navy Club,45.01909,-74.717126,0
+6111,Riverview Manor,45.020942,-74.694236,0
+6112,Danis & Easton,45.022937,-74.695844,0
+6113,Easton & Gardner,45.023898,-74.694129,0
+6114,Easton & Anthony,45.024732,-74.692159,0
+6115,Lorneville Apartments,45.028299,-74.696772,0
+6116,Eastcourt Mall,45.027417,-74.703939,0
+6118,McConnell Manor,45.025999,-74.714518,0
+6119,McConnell Medical Centre,45.028579,-74.71738,0
+6120,Cornwall Community Hospital,45.029501,-74.717954,0
+6125,Cornwall Square,45.016629,-74.72603,0
+6127,120 Augustus,45.016451,-74.730433,0
+6128,24 Augustus,45.015717,-74.729963,0
+6129,Saint Joseph's Villa,45.014975,-74.732067,0
+6130,Legion,45.016492,-74.737303,0
+6132,York & Water,45.014455,-74.731267,0
+6134,Second & Seymour,45.0156,-74.738848,0
+6139,Cumberland & Thirteenth,45.031998,-74.747654,0
+6141,Leitch & Anderson,45.035816,-74.695311,0
+6142,Leitch & Fraser,45.035907,-74.691632,0
+6143,Leitch & McMartin,45.035137,-74.690779,0
+6144,460 Seventh St.,45.022221,-74.745003,0
+6146,Second & Bedford,45.016459,-74.735419,0
+6147,Kirkman to Pitt & Second,45.019748,-74.698618,0
+6148,Water & Cumberland,45.012995,-74.73523,0
+6149,Second & Cornwall Transit,45.014809,-74.749205,0
+6150,Ninth & Augustus,45.028043,-74.736783,0
+6151,Brookdale & Seventh,45.020746,-74.745811,0
+6152,Marlborough & Pacific,45.032294,-74.724604,0
+7100,Cumberland & Fourth to Walmart,45.018597,-74.738487,0
+7110,Saint Felix & Walton,45.021943,-74.704765,0
+7120,Anthony & Easton,45.024836,-74.691768,0
+9901,Second & Cumberland,45.015784,-74.737414,0
+9902,Campbell & Marleau South (Sigma),45.042235,-74.693223,0
+9903,Service Canada,45.037092,-74.688941,0
+9904,Second & Saint Peters,45.033757,-74.686931,0
+9905,Cornwall Mini Storage,45.039078,-74.674277,0
+9906,Boundary Rd. & Holy Trinity High School,45.044611,-74.675214,0
+9907,Cornwall Gymnastics Club,45.041779,-74.67393,0
+9908,Campbell & Second St.,45.034688,-74.686691,0
+9909,MPIQC,45.036282,-74.688019,0
+9910,Loyalist & Campbell,45.037392,-74.687875,0
+9911,Loyalist & Education,45.040412,-74.680822,0
+9912,Ridgewood,45.038195,-74.686039,0
+9913,Leclerc,45.039302,-74.679594,0
+9914,Marleau & Boundary (Southside),45.047416,-74.678787,0
+9915,Marleau & Boundary (Northside),45.047569,-74.678853,0
+9917,Olymel (Southside),45.051871,-74.687395,0
+9918,RDC,45.060033,-74.691774,0
+9900,Pitt & Second (Industrial Stop),45.018408,-74.728802,0
+9919,Campbell & Marleau North (Sigma),45.043045,-74.693567,0
+9920,Harmony,45.048443,-74.711454,0
+6153,705 Cotton Mill,45.016562,-74.709198,0
+10000,City Hall,45.020322,-74.72994,0
+10001,Library,45.018823,-74.726989,0
+10002,Time Square,45.017561,-74.731011,0
+9921,Boundary Rd & Marleau (Mama Sues),45.048692,-74.678631,0
+9922,Matrix (Westside),45.053841,-74.688044,0
+9923,755 Campbell,45.039708,-74.691083,0
+9924,Second & East Ridge Drive,45.037791,-74.677421,0
+9925,Matrix (Eastside),45.053812,-74.687781,0
+9926,SCM Way & Boundary,45.05805,-74.68732,0
+9927,950 Boundary,45.05027,-74.67985,0
+9928,Marleau & Education (Southside),45.04514,-74.68523,0
+9929,Marleau & Education (Northside),45.04559,-74.68405,0
+9930,210 Augustus,45.018134,-74.731225,0
+9940,Second & East Ridge Drive (S/W Corner),45.03748,-74.678156,0
+9950,Leclerc (Eastside),45.039367,-74.679377,0
+9960,Ridgewood (Northside),45.038334,-74.686156,0
+9980,Nick Kaneb & Marleau,45.036104,-74.708092,0

@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "Water_Bottle_Filling_Stations",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "FID": 1, "LOCATION": "LAMOUREUX PARK - WOODHOUSE MUSEUM" }, "geometry": { "type": "Point", "coordinates": [ -74.729340995906099, 45.013922869697403 ] } },
+{ "type": "Feature", "properties": { "FID": 2, "LOCATION": "ANTHONY ST-SOUTH END" }, "geometry": { "type": "Point", "coordinates": [ -74.689383483265104, 45.021798132933498 ] } },
+{ "type": "Feature", "properties": { "FID": 3, "LOCATION": "OPG VISITOR CENTRE" }, "geometry": { "type": "Point", "coordinates": [ -74.784217828255095, 45.0080632184156 ] } },
+{ "type": "Feature", "properties": { "FID": 4, "LOCATION": "OPTIMIST PARK-NORTH PARK" }, "geometry": { "type": "Point", "coordinates": [ -74.736210329226594, 45.039517040224503 ] } },
+{ "type": "Feature", "properties": { "FID": 5, "LOCATION": "GUINDON PARK-WEST END" }, "geometry": { "type": "Point", "coordinates": [ -74.835219181490203, 45.034097711042797 ] } },
+{ "type": "Feature", "properties": { "FID": 6, "LOCATION": "KINSMEN MINOR SOCCER FIELDS" }, "geometry": { "type": "Point", "coordinates": [ -74.775218954618694, 45.011123690464402 ] } }
+]
+}
